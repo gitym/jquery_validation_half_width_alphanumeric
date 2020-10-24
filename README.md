@@ -1,0 +1,2 @@
+# jquery_validation_half_width_alphanumeric
+jQuery validation Pluginに半角英数字確認用のバリデーションがなかったので拡張しました。
